@@ -1,4 +1,4 @@
-package aritimeticos
+package Aritimeticos
 
 // O custo de um carro novo ao consumidor é a soma do custo de fábrica com a porcentagem do
 //distribuidor e dos impostos (aplicados ao custo de fábrica). Supondo que o percentual do distribuidor

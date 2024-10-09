@@ -4,7 +4,7 @@
 // ao total
 //de eleitores.
 
-package aritimeticos
+package Aritimeticos
 
 fun main(){
     votos()
