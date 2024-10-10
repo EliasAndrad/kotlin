@@ -23,8 +23,5 @@ fun crescente(){
         println("Ordem crescente: $valor1, $valor2")
     }else{
         println("Ordem crescente: $valor2, $valor1")
-
-
-
     }
 }
